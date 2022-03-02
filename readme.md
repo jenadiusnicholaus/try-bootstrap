@@ -6,7 +6,8 @@ This Repository is meant to learn and use bootstrap classes to create my portfol
 
 ## Built With
 
-- Html and css
+- Bootstrap 
+- Html, css and js.
 
 ## Live Demo
 
@@ -14,7 +15,7 @@ This Repository is meant to learn and use bootstrap classes to create my portfol
 
 ## Prerequisites
 
-- Html and css
+- Html, css and js.
 
 ## Author
 
