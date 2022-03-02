@@ -11,5 +11,10 @@
   background-repeat: no-repeat;
 } }
  
- /* // Medium devices (tablets, 768px and up) */
+ .card{
+  background: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url('../img/Img Placeholder (2).png');
+  background-size: cover;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+ }
 
