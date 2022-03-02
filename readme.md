@@ -2,7 +2,7 @@
 
 This Repository is meant to learn and use bootstrap classes to create my portfolio page in both desktop and mobile version ,
 
-![screenshot](assets/img/mobileversion.png)
+![screenshot](https://github.com/jenadiusnicholaus/my-portfolio-site/blob/main/assets/img/mobileversion.png)
 
 ## Built With
 
