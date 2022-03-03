@@ -1,0 +1,35 @@
+
+ /* // X-Small devices (portrait phones, less than 576px)
+ // No media query for `xs` since this is the default in Bootstrap
+ 
+ // Small devices (landscape phones, 576px and up) */
+ @media (max-width: 604px) { 
+   .my-bg {
+  background-image: url('../svgs/illustration-header-mobile.svg');
+  background-size: 40%;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+} }
+ 
+ .card {
+  background: linear-gradient(179.35deg, rgba(38, 38, 38, 0) 0.85%, rgba(38, 38, 38, 0.9) 84%), url('../img/Img Placeholder (2).png');
+  background-size: cover;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  margin-right: 12px;
+ }
+
+@media screen and (min-width: 604px) {
+  img {
+    width: 40vw;
+    height: 50vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  img {
+    width: 33vw;
+    height: 44vh;
+  }
+}
+
